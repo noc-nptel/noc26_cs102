@@ -1,0 +1,16 @@
+{
+    "root": true,
+    "icon": "Folder",
+    "title": "WEEK 01",
+    "pages": [
+        "index.mdx",
+        "---Lecture---",
+        "lecture/01",
+        "lecture/02",
+        "lecture/03",
+        "lecture/04",
+        "lecture/05",
+        "---Prepare---",
+        "assignment"
+    ]
+}
